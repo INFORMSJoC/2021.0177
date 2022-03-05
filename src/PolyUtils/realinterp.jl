@@ -1,4 +1,11 @@
 #=
+Copyright (c) 2018-2022 Chris Coey, Lea Kapelevich, and contributors
+Copyright (c) 2017, The Chancellor, Masters and Scholars of the University
+of Oxford, and the Chebfun Developers
+
+This Julia package Hypatia.jl is released under the MIT license; see LICENSE
+file in the root directory or at https://github.com/chriscoey/Hypatia.jl
+
 utilities for real polynomial interpolation
 =#
 

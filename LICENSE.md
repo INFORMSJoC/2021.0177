@@ -1,6 +1,4 @@
-
-Copyright (c) 2020
-Chris Coey, Lea Kapelevich, and contributors
+Copyright (c) 2018-2022 Chris Coey, Lea Kapelevich, and contributors
 
 Hypatia.jl is licensed under the **[MIT License]**.
 
