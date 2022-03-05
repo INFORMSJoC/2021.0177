@@ -1,4 +1,9 @@
 #=
+Copyright (c) 2018-2022 Chris Coey, Lea Kapelevich, and contributors
+
+This Julia package Hypatia.jl is released under the MIT license; see LICENSE
+file in the root directory or at https://github.com/chriscoey/Hypatia.jl
+
 TODO in complex case, can maybe compute Lambda fast in feas check by taking sqrt of
 point and doing outer product
 =#
