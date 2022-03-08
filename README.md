@@ -20,7 +20,7 @@ get a more recent version or would like support.**
 
 To cite this software, please cite the paper and the software itself using the following DOI.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6335773.svg)](https://doi.org/10.5281/zenodo.6335773)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6338835.svg)](https://doi.org/10.5281/zenodo.6338835)
 
 Below is the BibTeX for citing this version of the code.
 
@@ -30,7 +30,7 @@ Below is the BibTeX for citing this version of the code.
 	author       = {Chris Coey, Lea Kapelevich, and contributors},
 	year         = 2021,
 	publisher    = {INFORMS Journal on Computing},
-	doi          = {10.5281/zenodo.6335773},
+	doi          = {10.5281/zenodo.6338835},
 	url          = {https://github.com/INFORMSJoC/2021.0177},
 	version      = {v2021.0177}
 }
