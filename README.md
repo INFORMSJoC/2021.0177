@@ -52,7 +52,6 @@ For more information on Hypatia, please see:
 To use Hypatia, install [Julia](https://julialang.org/downloads/), then at the Julia REPL, type:
 ```julia
 julia> using Pkg; Pkg.add("Hypatia")
-
 julia> using Hypatia
 ```
 
