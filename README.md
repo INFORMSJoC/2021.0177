@@ -25,14 +25,13 @@ To cite this software, please cite the paper and the software itself using the f
 Below is the BibTeX for citing this version of the code.
 
 ```
-@software{Hypatia,
-	title        = {{Hypatia.jl}},
-	author       = {Chris Coey, Lea Kapelevich, and contributors},
-	year         = 2021,
-	publisher    = {INFORMS Journal on Computing},
-	doi          = {10.5281/zenodo.6338835},
-	url          = {https://github.com/INFORMSJoC/2021.0177},
-	version      = {v2021.0177}
+@article{Hypatia,
+title = {{Hypatia.jl} version v2021.0177},
+author = {Chris Coey, Lea Kapelevich, and contributors},
+year = 2021,
+publisher = {INFORMS Journal on Computing},
+doi = {10.5281/zenodo.6338835},
+note = {Available for download from https://github.com/INFORMSJoC/2021.0177},
 }
 ```
 
