@@ -6,13 +6,13 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper 
-"Solving Natural Conic Formulations with Hypatia.jl" by C. Coey, L. Kapelevich, J.P. Vielma. 
-The snapshot is based on 
-[this SHA](https://github.com/chriscoey/Hypatia.jl/commit/2a5230db92c285d09cb9cfeb40571bb58a808ea3) 
-in the development repository. 
+that were used in the research reported on in the paper
+"Solving Natural Conic Formulations with Hypatia.jl" by C. Coey, L. Kapelevich, J.P. Vielma.
+The snapshot is based on
+[this SHA](https://github.com/chriscoey/Hypatia.jl/commit/2a5230db92c285d09cb9cfeb40571bb58a808ea3)
+in the development repository.
 
-**Important: This code is being developed on an on-going basis at 
+**Important: This code is being developed on an on-going basis at
 https://github.com/chriscoey/Hypatia.jl. Please go there if you would like to
 get a more recent version or would like support.**
 
@@ -25,14 +25,13 @@ To cite this software, please cite the paper and the software itself using the f
 Below is the BibTeX for citing this version of the code.
 
 ```
-@software{Hypatia,
-	title        = {{Hypatia.jl}},
-	author       = {Chris Coey, Lea Kapelevich, and contributors},
-	year         = 2021,
-	publisher    = {INFORMS Journal on Computing},
-	doi          = {10.5281/zenodo.6338835},
-	url          = {https://github.com/INFORMSJoC/2021.0177},
-	version      = {v2021.0177}
+@article{Hypatia,
+title = {{Hypatia.jl} version v2021.0177},
+author = {Chris Coey and Lea Kapelevich and contributors},
+year = 2021,
+publisher = {INFORMS Journal on Computing},
+doi = {10.5281/zenodo.6338835},
+note = {Available for download from https://github.com/INFORMSJoC/2021.0177},
 }
 ```
 
