@@ -61,6 +61,7 @@ Scripts in the `benchmarks/natvsext` directory are used for comparing _natural_ 
 In `benchmarks/natvsext`, the file `raw/bench.csv` contains the raw output of the `run.jl` script, from which our results are generated.
 The `analysis` folder contains files produced from this raw CSV file by the `analyze.jl` script.
 These processed results files are used to generate the PGFPlots plots (from the CSV files in the `csvs` folder) and LaTeX tables (from TeX files in the `tex` folder) in the paper.
+The full set of tables and plots is given in `natvsext_results.pdf`.
 
 The following instructions for running the `run.jl` and `analyze.jl` scripts in `benchmarks/natvsext` should work from a Linux/macOS shell/terminal.
 
