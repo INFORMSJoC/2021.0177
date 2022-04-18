@@ -30,7 +30,7 @@ title = {{Hypatia.jl} version v2021.0177},
 author = {Chris Coey and Lea Kapelevich and contributors},
 year = 2021,
 publisher = {INFORMS Journal on Computing},
-doi = {10.5281/zenodo.6338835},
+doi = {10.5281/zenodo.6466746},
 note = {Available for download from https://github.com/INFORMSJoC/2021.0177},
 }
 ```
