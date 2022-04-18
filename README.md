@@ -20,7 +20,7 @@ get a more recent version or would like support.**
 
 To cite this software, please cite the paper and the software itself using the following DOI.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6338835.svg)](https://doi.org/10.5281/zenodo.6338835)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6466746.svg)](https://doi.org/10.5281/zenodo.6466746)
 
 Below is the BibTeX for citing this version of the code.
 
