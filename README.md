@@ -1,13 +1,13 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# [Solving Natural Conic Formulations with Hypatia.jl](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1202)
+# Solving Natural Conic Formulations with Hypatia.jl
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper
-"Solving Natural Conic Formulations with Hypatia.jl" by C. Coey, L. Kapelevich, J.P. Vielma.
+["Solving Natural Conic Formulations with Hypatia.jl"](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1202) by C. Coey, L. Kapelevich, J.P. Vielma.
 The snapshot is based on
 [this SHA](https://github.com/chriscoey/Hypatia.jl/commit/2a5230db92c285d09cb9cfeb40571bb58a808ea3)
 in the development repository.
