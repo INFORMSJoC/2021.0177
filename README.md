@@ -18,9 +18,7 @@ get a more recent version or would like support.**
 
 ## Cite
 
-To cite this software, please cite the paper and the software itself using the following DOI.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6466746.svg)](https://doi.org/10.5281/zenodo.6466746)
+To cite this software, please cite the paper and the software itself using the following DOI: [https://doi.org/10.1287/ijoc.2022.1202.cd](https://doi.org/10.1287/ijoc.2022.1202.cd).
 
 Below is the BibTeX for citing this version of the code.
 
@@ -30,7 +28,7 @@ title = {{Hypatia.jl} version v2021.0177},
 author = {Chris Coey and Lea Kapelevich and contributors},
 year = 2021,
 publisher = {INFORMS Journal on Computing},
-doi = {10.5281/zenodo.6466746},
+doi = {10.1287/ijoc.2022.1202.cd},
 note = {Available for download from https://github.com/INFORMSJoC/2021.0177},
 }
 ```
